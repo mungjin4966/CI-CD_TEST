@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -18,7 +18,6 @@ function App() {
           <div>해가 중천이라고!!!!!!!!</div>
         </a>
       </header>
-
 
       <div>왜!! 왜!! 나에 대한 기준만!! 엄격한건데!!!!!</div>
     </div>
