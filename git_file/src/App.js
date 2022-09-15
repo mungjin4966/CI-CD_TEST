@@ -1,3 +1,5 @@
+/** @format */
+
 import logo from './logo.svg';
 import './App.css';
 
@@ -15,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React 이상우 수정됨
         </a>
       </header>
     </div>
