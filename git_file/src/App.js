@@ -15,9 +15,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <div>해가 중천이라고!!!!!!!!</div>
         </a>
       </header>
+
+
+      <div>왜!! 왜!! 나에 대한 기준만!! 엄격한건데!!!!!</div>
     </div>
   );
 }
