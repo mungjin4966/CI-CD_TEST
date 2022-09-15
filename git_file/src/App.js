@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 /** @format */
 
 import logo from './logo.svg';
 import './App.css';
 import './App.css';
+=======
+import logo from "./logo.svg";
+import "./App.css";
+>>>>>>> origin/feature/gitgamer/no2
 
 function App() {
   return (
